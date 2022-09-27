@@ -1,0 +1,7 @@
+C:\Users\Parkhomenko.Vo.2022\source\repos\apka 4\apka 4\obj\Debug\apka 4.csprojAssemblyReference.cache
+C:\Users\Parkhomenko.Vo.2022\source\repos\apka 4\apka 4\obj\Debug\apka 4.csproj.CoreCompileInputs.cache
+C:\Users\Parkhomenko.Vo.2022\source\repos\apka 4\apka 4\bin\Debug\apka 4.exe.config
+C:\Users\Parkhomenko.Vo.2022\source\repos\apka 4\apka 4\bin\Debug\apka 4.exe
+C:\Users\Parkhomenko.Vo.2022\source\repos\apka 4\apka 4\bin\Debug\apka 4.pdb
+C:\Users\Parkhomenko.Vo.2022\source\repos\apka 4\apka 4\obj\Debug\apka 4.exe
+C:\Users\Parkhomenko.Vo.2022\source\repos\apka 4\apka 4\obj\Debug\apka 4.pdb
